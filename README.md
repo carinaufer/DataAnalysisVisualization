@@ -22,6 +22,6 @@ Hier ein paar Seiten die ich gelesen habe:
 
 https://plot.ly/python/plotly-express/;                               
 https://towardsdatascience.com/plotly-express-the-good-the-bad-and-the-ugly-dc941649687c;                           
-https://scikit-learn.org/stable/datasets/index.html#loading-other-datasets;                         
-https://www.ritchieng.com/pandas-scikit-learn/;         \n
+https://scikit-learn.org/stable/datasets/index.html#loading-other-datasets;                                   
+https://www.ritchieng.com/pandas-scikit-learn/;                 
 https://medium.com/dunder-data/from-pandas-to-scikit-learn-a-new-exciting-workflow-e88e2271ef62;
